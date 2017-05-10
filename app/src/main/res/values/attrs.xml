@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="mySeekBarView">
+        <attr name="isTime" format="boolean"/>
+        <attr name="isScroll" format="boolean"/>
+        <attr name="default_bg" format="color"/>
+        <attr name="select_bg" format="color"/>
+    </declare-styleable>
+</resources>
